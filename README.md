@@ -3,4 +3,6 @@ instagramUserinfo.py dosyasına hesabınıza ait kullanıcı adı ve parolanız�
 <br><br>
 yeni eklediğim startseven.py ile takipçilerin hesaplarına girip onların resimlerini çekiyor.Ama takipçi çok resim paylaşmışsa scroll işlemlerini daha yapmadığım için az resim çekiyor.Kişi resim paylaşmamışsa size çıkan öneri takip arkadaşlarının resimlerini alıyor.
 <br><br>
+<br>
+son eklediğim startten.pyile takipçi ve takip ettiklerinizin resimlerini alıyorsunuz.
 <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif">
