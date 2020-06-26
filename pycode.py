@@ -71,7 +71,7 @@ class Instagram:
             connection = mysql.connector.connect(host='127.0.0.1',
                                                     user='root',
                                                     
-                                                    password='elso3306',
+                                                    password='',
                                                     database='labinstagram')
             cursor=connection.cursor()
        
@@ -157,7 +157,7 @@ class Instagram:
             connection=mysql.connector.connect(host='127.0.0.1',
                                                         user='root',
                                                         
-                                                        password='elso3306',
+                                                        password='',
                                                         database='labinstagram',
                                                         buffered=True)
             cursor=connection.cursor()
